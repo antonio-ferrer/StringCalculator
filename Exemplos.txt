@@ -1,0 +1,19 @@
+Exemplos
+
+
+Media entre os termos a, b e c :
+
+	AVG(A,B,C)
+
+Soma entre os termos N1, N2 e N3 :
+
+	SUM(N1, N3, N3)
+
+Formula de calculo de "nota"
+
+	(AVG(P1,P2,P3) * 0.3) + P4*0.7
+
+
+Soma das Notas N, M, O, P, Q e aplicação de desconto de 15%:
+
+	SUM(N,M,O,P,Q) * 0.85
