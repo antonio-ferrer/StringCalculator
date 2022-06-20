@@ -4,3 +4,5 @@
 
 /.vs/StringCalculator/v17
 /.vs
+/obj
+/bin/Debug
